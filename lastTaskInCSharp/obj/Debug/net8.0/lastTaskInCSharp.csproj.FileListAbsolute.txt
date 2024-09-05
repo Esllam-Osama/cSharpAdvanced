@@ -1,0 +1,14 @@
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\bin\Debug\net8.0\lastTaskInCSharp.exe
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\bin\Debug\net8.0\lastTaskInCSharp.deps.json
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\bin\Debug\net8.0\lastTaskInCSharp.runtimeconfig.json
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\bin\Debug\net8.0\lastTaskInCSharp.dll
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\bin\Debug\net8.0\lastTaskInCSharp.pdb
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\obj\Debug\net8.0\lastTaskInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\obj\Debug\net8.0\lastTaskInCSharp.AssemblyInfoInputs.cache
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\obj\Debug\net8.0\lastTaskInCSharp.AssemblyInfo.cs
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\obj\Debug\net8.0\lastTaskInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\obj\Debug\net8.0\lastTaskInCSharp.dll
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\obj\Debug\net8.0\refint\lastTaskInCSharp.dll
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\obj\Debug\net8.0\lastTaskInCSharp.pdb
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\obj\Debug\net8.0\lastTaskInCSharp.genruntimeconfig.cache
+C:\Users\Eslam\source\repos\lastTaskInCSharp\lastTaskInCSharp\obj\Debug\net8.0\ref\lastTaskInCSharp.dll

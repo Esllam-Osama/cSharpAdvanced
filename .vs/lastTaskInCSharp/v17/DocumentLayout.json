@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|c:\\users\\eslam\\source\\repos\\lasttaskincsharp\\lasttaskincsharp\\activewithuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|solutionrelative:lasttaskincsharp\\activewithuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|c:\\users\\eslam\\source\\repos\\lasttaskincsharp\\lasttaskincsharp\\trueorfalsequsetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|solutionrelative:lasttaskincsharp\\trueorfalsequsetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|c:\\users\\eslam\\source\\repos\\lasttaskincsharp\\lasttaskincsharp\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|solutionrelative:lasttaskincsharp\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|c:\\users\\eslam\\source\\repos\\lasttaskincsharp\\lasttaskincsharp\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|solutionrelative:lasttaskincsharp\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|c:\\users\\eslam\\source\\repos\\lasttaskincsharp\\lasttaskincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|solutionrelative:lasttaskincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|c:\\users\\eslam\\source\\repos\\lasttaskincsharp\\lasttaskincsharp\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F42C824-D493-4148-B84C-D910A4012A6C}|lastTaskInCSharp\\lastTaskInCSharp.csproj|solutionrelative:lasttaskincsharp\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActiveWithUser.cs",
+              "DocumentMoniker": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\ActiveWithUser.cs",
+              "RelativeDocumentMoniker": "lastTaskInCSharp\\ActiveWithUser.cs",
+              "ToolTip": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\ActiveWithUser.cs",
+              "RelativeToolTip": "lastTaskInCSharp\\ActiveWithUser.cs",
+              "ViewState": "AQIAAH0AAAAAMjMzMzMhwGMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:23:07.68Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\Instructor.cs",
+              "RelativeDocumentMoniker": "lastTaskInCSharp\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\Instructor.cs",
+              "RelativeToolTip": "lastTaskInCSharp\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:08:48.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrueOrFalseQusetion.cs",
+              "DocumentMoniker": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\TrueOrFalseQusetion.cs",
+              "RelativeDocumentMoniker": "lastTaskInCSharp\\TrueOrFalseQusetion.cs",
+              "ToolTip": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\TrueOrFalseQusetion.cs",
+              "RelativeToolTip": "lastTaskInCSharp\\TrueOrFalseQusetion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:17:59.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChooseOneQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\ChooseOneQuestion.cs",
+              "RelativeDocumentMoniker": "lastTaskInCSharp\\ChooseOneQuestion.cs",
+              "ToolTip": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\ChooseOneQuestion.cs",
+              "RelativeToolTip": "lastTaskInCSharp\\ChooseOneQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:17:27.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\Exam.cs",
+              "RelativeDocumentMoniker": "lastTaskInCSharp\\Exam.cs",
+              "ToolTip": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\Exam.cs",
+              "RelativeToolTip": "lastTaskInCSharp\\Exam.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T08:33:27.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "lastTaskInCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Eslam\\source\\repos\\lastTaskInCSharp\\lastTaskInCSharp\\Program.cs",
+              "RelativeToolTip": "lastTaskInCSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:57:28.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
